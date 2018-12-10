@@ -1,6 +1,6 @@
 # jekyll-base for (TatouageCalypso.com)...
 
-Fresh Jekyll install from running "jekyll new ..."
+Fresh Jekyll install from running "jekyll new ...", Pull request demand on new branche: RastaDjuss-jekyll-base-testing-tatouageCalypso.
 <div style="background-color:#af0d42"><h1><font size="21" color="#af0d42">Wiki of Tatouage calypso, Tatouage Québec Tattoo Shop</font></h1></div>
 
 Applicaation created for CDN support and wp-Super cache wordpress plugin. Netlify brought me to create these repositories.
@@ -28,6 +28,7 @@ Like us on Instagram, <a href="https://www.instagram.com/tatouagecalypso/" alt="
   
   <a href="https://www.pinterest.com/tatouagecalypso/"
    data-pin-do="buttonFollow"><img src="https://tatouagecalypso.com/wp-content/uploads/2018/12/Pinterest-Image1.jpg" alt="Lien pour suivre tatouage Calypso sur Pinterest. Icone Pinterest follow us on Pinterest, suivez nous sur Pinterest." title="Follow us on Pinterest"></a>
+   
    
 
    
