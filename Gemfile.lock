@@ -1,3 +1,4 @@
+gem "jekyll", ">= 3.6.3"
 GEM
   remote: https://rubygems.org/
   specs:
