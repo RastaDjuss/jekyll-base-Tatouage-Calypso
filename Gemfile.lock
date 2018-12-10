@@ -49,3 +49,4 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.16.0
+gem "jekyll", ">= 3.6.3"
