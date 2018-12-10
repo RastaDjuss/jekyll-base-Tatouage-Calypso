@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  specs:
+  specs: gem "jekyll", ">= 3.6.3"
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
